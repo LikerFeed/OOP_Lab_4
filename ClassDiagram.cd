@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EllipseShape" Collapsed="true">
+    <Position X="9.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAACAAAAAAAAAAAAAAEAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>ellipse_shape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LineShape" Collapsed="true">
+    <Position X="5.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAACAAAAAAAAAAAAAAEAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>line_shape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PointShape" Collapsed="true">
+    <Position X="0.75" Y="4.5" Width="1.5" />
+    <InheritanceLine Type="Shape" ManuallyRouted="true">
+      <Path>
+        <Point X="6" Y="2.562" />
+        <Point X="6" Y="2.875" />
+        <Point X="0.55" Y="2.875" />
+        <Point X="0.55" Y="4.088" />
+        <Point X="1.5" Y="4.088" />
+        <Point X="1.5" Y="4.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAACAAAAAAAAAAAAAAEAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>point_shape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RectShape" Collapsed="true">
+    <Position X="0.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAACAAAAAAAAAAAAAAEAAAAAAIAABAAAgA=</HashCode>
+      <FileName>rect_shape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shape" Collapsed="true">
+    <Position X="5.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAACAAAgAAAAAAAAAAEAGAAAAIAAAAAAAA=</HashCode>
+      <FileName>shape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ToolBar" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAEAAAAAAgAAAAAAACAAAAAAAACAgIAAAAA=</HashCode>
+      <FileName>toolbar.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LineOOShape" Collapsed="true">
+    <Position X="7.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAACAAAAAAAAAAAAAAEAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>lineOO_shape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CubeShape" Collapsed="true">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAACAAAAAAAAAAAAAAEAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>cube_shape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PointPlusShape" Collapsed="true">
+    <Position X="9.75" Y="4.5" Width="1.5" />
+    <InheritanceLine Type="Shape" ManuallyRouted="true">
+      <Path>
+        <Point X="6" Y="2.562" />
+        <Point X="6" Y="2.875" />
+        <Point X="11.413" Y="2.875" />
+        <Point X="11.413" Y="4.096" />
+        <Point X="10.5" Y="4.096" />
+        <Point X="10.5" Y="4.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAACAAAAAAAAAAAAAAEAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>point_plus_shape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyEditor" Collapsed="true">
+    <Position X="5.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IADAAACAACBAAAAAAAAAQAAAABCAAEAAEAAAAAABAAA=</HashCode>
+      <FileName>my_editor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
